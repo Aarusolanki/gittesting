@@ -1,1 +1,7 @@
 This is a change from MAIN branch
+<<<<< HEAD
+This is a change from MAIN branch
+=======
+>>>>>>> feature1
+This is a change from MAIN branch
+This is a change from FEATURE1 branch
